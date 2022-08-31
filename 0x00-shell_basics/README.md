@@ -1,1 +1,1 @@
-display hidden files in long format with dot
+Display current directory list with long format with user id and hidden format
